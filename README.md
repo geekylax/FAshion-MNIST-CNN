@@ -13,3 +13,7 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 STEP #2 Data cleaniing 
 STEP #3 Training 
 STEP #4 Evaluating 
+
+
+you can download the dataset florm here
+https://www.kaggle.com/zalando-research/fashionmnist
